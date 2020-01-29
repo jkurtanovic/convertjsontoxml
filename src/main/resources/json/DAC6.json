@@ -1,0 +1,390 @@
+{
+  "arrangementForm": {
+    "arrangementId": "HRA20190411SDSDSD",
+    "marketableArrangement": true,
+    "initialMarketableArrangement": false,
+    "languageId": 1
+  },
+  "disclosingPartyForm": {
+    "party": {
+      "person": null,
+      "organisation": {
+        "organisationNames": [
+          {
+            "name": "XDPNMNJ",
+            "languageId": 1
+          }
+        ]
+      },
+      "address": {
+        "countryId": 2,
+        "postCode": "13191",
+        "city": "RZKVJ",
+        "street": "IROOS"
+      },
+      "email": "BEYTKWJ",
+      "partyTinList": [
+        {
+          "tin": "72877452404",
+          "countryId": 300
+        },
+        {
+          "tin": "57252226138",
+          "countryId": 3
+        }
+      ],
+      "countriesOfResidance": [
+        4
+      ],
+      "arrangementChartId": "73ad2b2e-167f-4d93-b02f-dd4d63f884db"
+    },
+    "liability": {
+      "liabilityId": 1,
+      "nexusId": 3,
+      "capacityId": 2
+    },
+    "oib": "72877452404"
+  },
+  "taxpayersForm": {
+    "taxpayers": [
+      {
+        "person": null,
+        "organisation": {
+          "organisationNames": [
+            {
+              "name": "ASDAS",
+              "languageId": 1
+            }
+          ]
+        },
+        "address": {
+          "countryId": 1,
+          "postCode": "ASDASD2313",
+          "city": "DASDASD",
+          "street": "ASDAS"
+        },
+        "email": "",
+        "partyTinList": [],
+        "countriesOfResidance": [
+          300
+        ],
+        "arrangementChartId": "5624eae2-c880-4ab8-b5c9-8236e40d49cb",
+        "implementingDate": "23.01.2020",
+        "relatedParties": [
+          {
+            "person": null,
+            "organisation": {
+              "organisationNames": [
+                {
+                  "name": "ASDASD",
+                  "languageId": 1
+                }
+              ]
+            },
+            "address": {
+              "countryId": 300,
+              "postCode": "DASD1W312",
+              "city": "ASDAS",
+              "street": "ASDA"
+            },
+            "email": "",
+            "partyTinList": [],
+            "countriesOfResidance": [
+              300
+            ],
+            "arrangementChartId": "0b1b9e90-e3bd-4f03-904f-63d127c8f75a",
+            "affectedPerson": true
+          }
+        ]
+      },
+      {
+        "person": {
+          "firstName": "QWE",
+          "lastName": "QWEQW",
+          "birthPlace": "132312ASDAD",
+          "birthDate": "02.01.2020"
+        },
+        "organisation": null,
+        "address": {
+          "countryId": 2,
+          "postCode": "ASDASD",
+          "city": "SDASDASD",
+          "street": "ASDA"
+        },
+        "email": "SDASDASD",
+        "partyTinList": [],
+        "countriesOfResidance": [
+          300
+        ],
+        "arrangementChartId": "f89ad4ab-46db-4d0d-9e09-a8f37b8fdcc9",
+        "implementingDate": "22.01.2020",
+        "relatedParties": []
+      }
+    ]
+  },
+  "intermediariesForm": {
+    "intermediaries": [
+      {
+        "person": null,
+        "organisation": {
+          "organisationNames": [
+            {
+              "name": "DASDASDA ASD ASDA",
+              "languageId": 0
+            }
+          ]
+        },
+        "address": {
+          "countryId": 3,
+          "postCode": "DASDAS",
+          "city": "SDASDA",
+          "street": "ASDA"
+        },
+        "email": "",
+        "partyTinList": [],
+        "countriesOfResidance": [
+          300
+        ],
+        "arrangementChartId": "6c8871b1-ad67-4921-bbe9-bfa3c77b30bb",
+        "capacityId": 1,
+        "nationalExemption": true,
+        "countriesOfExemption": [
+          1,
+          300
+        ]
+      },
+      {
+        "person": {
+          "firstName": "ASD",
+          "lastName": "ASDA",
+          "birthPlace": "ASD",
+          "birthDate": "09.01.2020"
+        },
+        "organisation": null,
+        "address": {
+          "countryId": 1,
+          "postCode": "123DASDA",
+          "city": "21EASDAD",
+          "street": "ASD"
+        },
+        "email": "",
+        "partyTinList": [],
+        "countriesOfResidance": [
+          300
+        ],
+        "arrangementChartId": "b6b2da11-6641-4cc8-b1ab-4c7583b93750",
+        "capacityId": 2,
+        "nationalExemption": true,
+        "countriesOfExemption": [
+          300,
+          1
+        ]
+      }
+    ]
+  },
+  "affectedPersonsForm": {
+    "affectedPersons": [
+      {
+        "person": null,
+        "organisation": {
+          "organisationNames": [
+            {
+              "name": "ASDASDASD",
+              "languageId": 1
+            }
+          ]
+        },
+        "address": {
+          "countryId": 1,
+          "postCode": "ASDASD",
+          "city": "ASDASD",
+          "street": "ASDAS"
+        },
+        "email": "",
+        "partyTinList": [
+          {
+            "tin": "ASDASD",
+            "countryId": 2
+          }
+        ],
+        "countriesOfResidance": [
+          300
+        ],
+        "arrangementChartId": "4b050e3f-f04e-4f50-b50e-a240979a1ebb"
+      },
+      {
+        "person": {
+          "firstName": "123123213ASDASD",
+          "lastName": "ASDASD",
+          "birthPlace": "ASDASDASD",
+          "birthDate": "15.01.2020"
+        },
+        "organisation": null,
+        "address": {
+          "countryId": 1,
+          "postCode": "ASDASD",
+          "city": "DASDASD",
+          "street": "ADSAS"
+        },
+        "email": "",
+        "partyTinList": [
+          {
+            "tin": "ASDASD",
+            "countryId": 3
+          }
+        ],
+        "countriesOfResidance": [
+          300
+        ],
+        "arrangementChartId": "b511a951-29b2-48bc-8859-5f95c5a48301"
+      }
+    ]
+  },
+  "disclosureInformationForm": {
+    "dateAndReason": {
+      "implementingDate": "23.01.2020",
+      "reason": 2
+    },
+    "summary": {
+      "disclosureName": "ASDASDASD",
+      "summaryDescription": {
+        "textHR": "ASDASD",
+        "textEN": "ASDASD"
+      }
+    },
+    "hallmarks": {
+      "mainBenefitTest": true,
+      "hallmarkItems": [
+        {
+          "hallmarkId": 2,
+          "descriptions": null
+        },
+        {
+          "hallmarkId": 4,
+          "descriptions": [
+            {
+              "otherInformationHR": "asdasd",
+              "otherInformationEN": "asdasd"
+            }
+          ]
+        }
+      ]
+    },
+    "amount": {
+      "value": "150.00",
+      "currencyId": 1
+    },
+    "concernedMemberStates": [
+      300,
+      1
+    ],
+    "nationalProvisionItem": {
+      "descriptionHR": "ASDASDA",
+      "descriptionEN": "ASDASD"
+    },
+    "nationalProvisionItems": null
+  },
+  "arrangementChartForm": {
+    "arrangementChartItem": {
+      "partyId": "73ad2b2e-167f-4d93-b02f-dd4d63f884db",
+      "parentId": null,
+      "children": [
+        {
+          "partyId": "5624eae2-c880-4ab8-b5c9-8236e40d49cb",
+          "parentId": "73ad2b2e-167f-4d93-b02f-dd4d63f884db",
+          "children": [
+            {
+              "partyId": "0b1b9e90-e3bd-4f03-904f-63d127c8f75a",
+              "parentId": "5624eae2-c880-4ab8-b5c9-8236e40d49cb",
+              "children": [
+                {
+                  "partyId": "f89ad4ab-46db-4d0d-9e09-a8f37b8fdcc9",
+                  "parentId": "0b1b9e90-e3bd-4f03-904f-63d127c8f75a",
+                  "children": [
+                    {
+                      "partyId": "4b050e3f-f04e-4f50-b50e-a240979a1ebb",
+                      "parentId": "f89ad4ab-46db-4d0d-9e09-a8f37b8fdcc9",
+                      "children": [],
+                      "ownership": null,
+                      "amount": {
+                        "value": "",
+                        "currencyId": -1
+                      },
+                      "otherInfo": []
+                    }
+                  ],
+                  "ownership": null,
+                  "amount": {
+                    "value": "",
+                    "currencyId": -1
+                  },
+                  "otherInfo": []
+                }
+              ],
+              "ownership": "100",
+              "amount": {
+                "value": "150.00",
+                "currencyId": 0
+              },
+              "otherInfo": [
+                {
+                  "languageId": 0,
+                  "text": "asdasdasdasdasdasdasdasd"
+                }
+              ]
+            }
+          ],
+          "ownership": null,
+          "amount": {
+            "value": "",
+            "currencyId": -1
+          },
+          "otherInfo": []
+        },
+        {
+          "partyId": "b511a951-29b2-48bc-8859-5f95c5a48301",
+          "parentId": "73ad2b2e-167f-4d93-b02f-dd4d63f884db",
+          "children": [],
+          "ownership": null,
+          "amount": {
+            "value": "",
+            "currencyId": -1
+          },
+          "otherInfo": []
+        }
+      ],
+      "ownership": "15",
+      "amount": {
+        "value": "150.00",
+        "currencyId": 1
+      },
+      "otherInfo": []
+    }
+  },
+  "arrangementChartPickerItems": [
+    {
+      "partyId": "73ad2b2e-167f-4d93-b02f-dd4d63f884db",
+      "addEnabled": false
+    },
+    {
+      "partyId": "5624eae2-c880-4ab8-b5c9-8236e40d49cb",
+      "addEnabled": false
+    },
+    {
+      "partyId": "0b1b9e90-e3bd-4f03-904f-63d127c8f75a",
+      "addEnabled": false
+    },
+    {
+      "partyId": "f89ad4ab-46db-4d0d-9e09-a8f37b8fdcc9",
+      "addEnabled": false
+    },
+    {
+      "partyId": "4b050e3f-f04e-4f50-b50e-a240979a1ebb",
+      "addEnabled": false
+    },
+    {
+      "partyId": "b511a951-29b2-48bc-8859-5f95c5a48301",
+      "addEnabled": false
+    }
+  ]
+}
